@@ -49,7 +49,7 @@
             <name>JUnit contributors</name>
             <organization>JUnit</organization>
             <email>junit@yahoogroups.com</email>
-            <url>https://github.com/junit-team/junit4/graphs/contributors</url>
+            <url>http://github.com/junit-team/junit4/graphs/contributors</url>
             <roles>
                 <role>developers</role>
             </roles>
