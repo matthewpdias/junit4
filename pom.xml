@@ -86,7 +86,7 @@
         <downloadUrl>https://github.com/junit-team/junit4/wiki/Download-and-Install</downloadUrl>
         <snapshotRepository>
             <id>snapshots</id>
-            <url>https://10.0.2.2:8081/repository/maven-snapshots/</url>
+            <url>http://10.0.2.2:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>junit-releases-repo</id>
