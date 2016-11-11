@@ -85,13 +85,12 @@
     <distributionManagement>
         <downloadUrl>https://github.com/junit-team/junit4/wiki/Download-and-Install</downloadUrl>
         <snapshotRepository>
-            <id>snapshots</id>
+            <id>deployment</id>
             <url>http://10.0.2.2:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
-            <id>junit-releases-repo</id>
-            <name>Nexus Release Repository</name>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <id>deployment</id>
+            <url>http://10.0.2.2:8081/repository/maven-releases/</url>
         </repository>
         <site>
             <id>junit.github.io</id>
